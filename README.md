@@ -1,2 +1,4 @@
 # Lattes-Data-Base
-Plataforma de Dados Abertos Acadêmicos
+Plataforma de Dados Acadêmicos Abertos
+
+Open Academic Data Platform
